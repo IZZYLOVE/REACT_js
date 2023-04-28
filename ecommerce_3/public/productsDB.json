@@ -1,0 +1,218 @@
+{
+  "Users": [
+    {
+      "firstName": "kingdom",
+      "middleName": "hanacho",
+      "lastName": "adele",
+      "email": "izzylovu@gmail.com",
+      "password": "kingdom",
+      "phone": "09087654456",
+      "superx": 10,
+      "level": 0,
+      "id": 1
+    },
+    {
+      "firstName": "kingsley",
+      "middleName": "green",
+      "lastName": "abel",
+      "email": "kingsley@gmail.com",
+      "password": "kingsley",
+      "phone": "08087654456",
+      "superx": 0,
+      "level": 0,
+      "id": 2
+    }
+  ],
+  "Checkouts": [
+    {
+      "userId": 1,
+      "firstName": "kingdom",
+      "middleName": "hanacho",
+      "lastName": "adele",
+      "email": "izzylovu@gmail.com",
+      "phone": "09087654456",
+      "address": "adels house",
+      "seconds": 1682159029,
+      "checkoutId": "U1T1682159029",
+      "Orders": [
+        {
+          "productid": 2,
+          "productName": "Hisense 50 Inch Smart UHD FRAMELESS 4K, NETFLX, YOUTUBE Led TV",
+          "price": 224900,
+          "qty": 2,
+          "currency": "₦",
+          "cost": 449800,
+          "status": "Recieved",
+          "OrderId": "U1T1682159029O0",
+          "Address": "adels house"
+        },
+        {
+          "productid": 1,
+          "productName": "Polystar 40 INCH SMART CURVED LED TV + Free Wall Bracket",
+          "price": 133700,
+          "qty": 1,
+          "currency": "₦",
+          "cost": 133700,
+          "status": "Recieved",
+          "OrderId": "U1T1682159029O1",
+          "Address": "adels house"
+        },
+        {
+          "productid": 3,
+          "productName": "LG 5.1 Ch Bluetooth DVD Home Theatre System Body Guard 1000W-LHD675BG",
+          "price": 234900,
+          "qty": 1,
+          "currency": "₦",
+          "cost": 234900,
+          "status": "Recieved",
+          "OrderId": "U1T1682159029O2",
+          "Address": "adels house"
+        },
+        {
+          "productid": 4,
+          "productName": "LG 50 INCH SMART UHD 4K SATELLITE TV+Magic Remote",
+          "price": 336000,
+          "qty": 1,
+          "currency": "₦",
+          "cost": 336000,
+          "status": "Recieved",
+          "OrderId": "U1T1682159029O3",
+          "Address": "adels house"
+        },
+        {
+          "productid": 8,
+          "productName": "Hp Notebook 15- Intel Core I3- 8GB RAM - 256GB SSD Windows 11",
+          "price": 270000,
+          "qty": 2,
+          "currency": "₦",
+          "cost": 540000,
+          "status": "Recieved",
+          "OrderId": "U1T1682159029O4",
+          "Address": "adels house"
+        },
+        {
+          "productid": 7,
+          "productName": "Hp 15 Intel Pentium Gold 8GB RAM 1TB HDD Windows 10 + Free Mouse",
+          "price": 236990,
+          "qty": 1,
+          "currency": "₦",
+          "cost": 236990,
+          "status": "Recieved",
+          "OrderId": "U1T1682159029O5",
+          "Address": "adels house"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "Products": [
+    {
+      "productName": "Polystar 40 INCH SMART CURVED LED TV + Free Wall Bracket",
+      "price": 133700,
+      "currency": "₦",
+      "about": "POLYSTAR 40 SMART CURVED TV is strong and reliable. Great graphics  to satisfy your desire for entertainments.Top features:- Vibrant Full HD display with colour enhancing technology – One Remote Control lets you control different devices – Smart View  and control your TV using your smartphone – Smart Hub offers easily accessible entertainment for the whole family Vibrant Full HD displayThe polystar Smart LED TV delivers a crisp and clear Full HD picture for enjoying dramas, sports, movies, and more.",
+      "productImage": "../assets/Polystar_40_INCH_SMART_CURVED_LED_TV.jpg",
+      "quantity": 20,
+      "id": 1
+    },
+    {
+      "productName": "Hisense 50 Inch Smart UHD FRAMELESS 4K, NETFLX, YOUTUBE Led TV",
+      "price": 224900,
+      "currency": "₦",
+      "about": "Premium Features Made Affordable The Hisense 4K UHD Smart TV delivers all the standout features you want in a TV without stretching your budget. With four times more pixels (8.3 million) than standard high definition TV, the Hisense H6 series produces the brightest colors and richest contrast. A smart TV that comes with tons of built-in apps, the A6103UW also works with  to seamlessly control the A610 series TV through any -enabled device.",
+      "productImage": "../assets/Hisense_50_Inch_Smart_UHD.jpg",
+      "quantity": 20,
+      "id": 2
+    },
+    {
+      "productName": "LG 5.1 Ch Bluetooth DVD Home Theatre System Body Guard 1000W-LHD675BG",
+      "price": 234900,
+      "currency": "₦",
+      "about": "LG AUD 675 Home Theatre System, a guarantee of clarity surround sound in your home as it comes with superb features. Bring the excitement of bass to your home  as it also comes with the powerful Bass feature. This set also has a simple speaker setup mode which allows a quick and easy way of setting up high quality sound in your home.",
+      "productImage": "../assets/LG_5._ Ch_Bluetooth_DVD.jpg",
+      "quantity": 20,
+      "id": 3
+    },
+    {
+      "productName": "LG 50 INCH SMART UHD 4K SATELLITE TV+Magic Remote",
+      "price": 336000,
+      "currency": "₦",
+      "about": "LG AUD 675 Home Theatre System, a guarantee of clarity surround sound in your home as it comes with superb features. Bring the excitement of bass to your home  as it also comes with the powerful Bass feature. This set also has a simple speaker setup mode which allows a quick and easy way of setting up high quality sound in your home.",
+      "productImage": "../assets/LG_50inch_SMART_UHD_4K_SATELLITE_TV.jpg",
+      "quantity": 20,
+      "id": 4
+    },
+    {
+      "productName": "Infinix Note 12 PRO 5G (X671B) 6.7inch FHD+, 128GB ROM +8GB RAM, 108MP",
+      "price": 228510,
+      "currency": "₦",
+      "about": "Up to 13GB Extended RAM 8GB+5GB Extend 8GB memory to 13GB by RAM and ROM. Not only does this improve the smartphone's processing speed but it alsoaccelerates performance when performingvarious functions and tasks.*The 5GB expansion is based on the 13GB physical RAM version, please refer to the actual product for details.",
+      "productImage": "../assets/Infinix_Note_12_PRO_5G.jpg",
+      "quantity": 20,
+      "id": 5
+    },
+    {
+      "productName": "Samsung Galaxy S10 Plus (S10+) 6.4-Inch AMOLED",
+      "price": 185000,
+      "currency": "₦",
+      "about": "The Samsung S10 range captures the belief that there is no limit. The no-notch Near Infinity Screen delivers life-like graphics and the intuitive interface makes gaming super fun (+ Dolby Enhanced Game Mode) and unlocking your device even smoother. With wirelessPower-Share, this powerhouse keeps your friends' phones charged even as yours stays up and running with All-Day Intelligent Battery. Water and Dust Resistant, this is the zero-worries smartphone, Intelligent WiFi helps you connect with the ones that matter fast and the Ultra Wide Cameras capture life in all its brilliant .",
+      "productImage": "../assets/Samsung_Galaxy_S10_Plus.jpg",
+      "quantity": 20,
+      "id": 6
+    },
+    {
+      "productName": "Hp 15 Intel Pentium Gold 8GB RAM 1TB HDD Windows 10 + Free Mouse",
+      "price": 236990,
+      "currency": "₦",
+      "about": "WINDOWS 10 64 Bit - 1TB ONEDRIVE CLOUD STORAGE - PROCESSOR UP TO 3.5GHz With Intel Turbo Boost System 2 USB 3.1 Gen 1 Type-C™ (Data Transfer Only, 5 Gb/s signaling rate); 2 USB 3.1 Gen 1 Type-A (Data Transfer Only); 1 AC smart pin; 1 HDMI 1.4b; 1 headphone/microphone combo; 1 RJ-45",
+      "productImage": "../assets/Hp_15_Intel_Pentium_Gold_8GB.jpg",
+      "quantity": 20,
+      "id": 7
+    },
+    {
+      "productName": "Hp Notebook 15- Intel Core I3- 8GB RAM - 256GB SSD Windows 11",
+      "price": 270000,
+      "currency": "₦",
+      "about": "Designed to keep you productive and entertained from anywhere, the HP 39.6 cm (15”) laptop combines a long battery life with a sleek and portable, micro-edge bezel design. PROCESSOR FAMILY 10th Generation Intel® CORE I3 PROCESSOR 39.6 cm (15\") diagonal, HD (1366 x 768), touch, micro-edge, BrightView, 220 nits, 45% NTSC",
+      "productImage": "../assets/Hp_Notebook_15-Intel_Core_I3-8GB_RAM.jpg",
+      "quantity": 20,
+      "id": 8
+    },
+    {
+      "productName": "Hp Notebook 15- Intel Core I3- 8GB RAM - 256GB SSD Windows 11",
+      "price": 270000,
+      "currency": "₦",
+      "about": "Designed to keep you productive and entertained from anywhere, the HP 39.6 cm (15”) laptop combines a long battery life with a sleek and portable, micro-edge bezel design. PROCESSOR FAMILY 10th Generation Intel® CORE I3 PROCESSOR 39.6 cm (15\") diagonal, HD (1366 x 768), touch, micro-edge, BrightView, 220 nits, 45% NTSC",
+      "productImage": "../assets/Hp_Notebook_15-Intel_Core_I3-8GB_RAM.jpg",
+      "quantity": 20,
+      "id": 9
+    },
+    {
+      "productName": "Apple MacBook Pro 16\" M1 Pro Chip 16GB RAM, 1TB (2021 Model)Silver",
+      "price": 1580000,
+      "currency": "₦",
+      "about": " Apple 16.2\" MacBook Pro with M1 Pro Chip is the ultimate pro mobile workstation for the ultimate user. The system features the Apple M1 Pro 10-Core Chip, which provides the power and performance needed to handle your professional workflows. The 16.2\" Liquid Retina XDR display features a 3456 x 2234 resolution, 1,000 nits of sustained brightness, 1,600 nits of peak brightness, P3 color gamut support, and more. With up to 1TB of SSD storage, you'll be able to load massive files and launch apps quickly, enabling you to work with photo and video libraries from almost anywhere.",
+      "productImage": "../assets/Apple_MacBook_Pro.jpg",
+      "quantity": 20,
+      "id": 10
+    },
+    {
+      "productName": "DELL G5 5510 Gaming PC Intel 10th Gen Intel Core I5,8GB RAM,512GB SSD,NVidIA",
+      "price": 698000,
+      "currency": "₦",
+      "about": "Processor:10th Generation Intel Core i5-10500H Processor (8MB Cache,  2.5 GHz up to 4.5 GHz, 4 cores)Memory & Storage:8GB, 2x4GB, DDR4,Dual Channel 2933MHz upgradable to 16GB - 512GB M.2 PCIe NVMe Solid State DriveDisplay:15.6 LED Backlit Anti Glare IPS FHD (1920 x 1080) display ,60Hz ,300 nits - 72% NTSC Color GamutGraphics:NVidIA GeForce RTX 3050Ti 4GB GDDR6 - Game Shift TechnologyOperating System & Software:Windows 10 Home Plus Single Language - McAfee Security Center 15 month subscriptionKeyboard & Battery: Backlit keyboard - 3 Cell Battery, 51 Whr,Upto 10 hours battery life - Laptop weight 2.3 KgI/O Ports:1xUSB 3.2 Gen 1 port with PowerShare - 2x USB 2.0 ports - 1x HDMI 2.0 port - 1x SD-card slot - 1x RJ45 port - 1x headset port Others :Alienware Command Center - Nahimic 3D audio - WiFi 802.11ac 1x1 - Bluetooth 5 -1Yr Premium Support:Service - Finger Print Reader",
+      "productImage": "../assets/DELL_G_ 5510_Gaming_PC.jpg",
+      "quantity": 20,
+      "id": 11
+    },
+    {
+      "productName": "Asus TUF DASH INTEL CORE I5, 16GB RAM, 512GB SSD 16\" GTX 1650 (4GB)",
+      "price": 690000,
+      "currency": "₦",
+      "about": "Geared for serious gaming and real-world durability, the TUF Gaming F15 is a fully-loaded Windows 10 gaming laptop that can carry you to victory. Powered by the latest up to 10th Gen Intel® Core™ i5 CPU and up to GeForce® GTX 1650 Ti GPU, action-packed gameplay is fast, fluid, and fully saturates speedy IPS-level displays up to 144Hz. Even while boasting a smaller and more portable chassis than its predecessors, this gaming laptop also features a large 90Wh battery for superior battery life. Efficient self-cleaning cooling combines with TUF's signature military-grade durability to make this battle-tested road warrior a powerful ally for any gamer.",
+      "productImage": "../assets/Asus_TUF_DASH_INTEL_CORE_I5.jpg",
+      "quantity": 20,
+      "id": 12
+    }
+  ]
+}
